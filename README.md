@@ -10,6 +10,6 @@ Tecnologías usadas/technologies used:
 - BOOTSTRAP
 - JAVASCRIPT
 
-<img src="https://image.winudf.com/v2/image1/cnUud2VicmVmLmh0bWx0dXRvcmlhbF9pY29uXzE2MTc5Mjg3NDBfMDAw/icon.png?w=100&fakeurl=1"</img>
-<img src="https://midu.dev/images/tags/css.png"</img>
-<img src="https://midu.dev/images/tags/javascript.png"</img>
+<img src="https://image.winudf.com/v2/image1/cnUud2VicmVmLmh0bWx0dXRvcmlhbF9pY29uXzE2MTc5Mjg3NDBfMDAw/icon.png?w=100&fakeurl=1">
+<img src="https://midu.dev/images/tags/css.png">
+<img src="https://midu.dev/images/tags/javascript.png">
